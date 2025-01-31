@@ -356,7 +356,7 @@ body {
 }
 
 .handwritten {
-    font-family: 'Dancing Script', cursive; /* Google Font for handwritten style */
+    font-family: 'Dancing Script', cursive;
     font-size: 3rem;
     color: #333;
     opacity: 0;
@@ -377,8 +377,4 @@ body {
         width: 100%;
         opacity: 1;
     }
-}
-
-.handwrittenAnimation {
-    animation: handwriting 3s steps(30) 1s forwards; /* Steps controls the effect like a typewriter */
 }
